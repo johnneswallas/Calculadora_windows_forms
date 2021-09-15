@@ -1,0 +1,14 @@
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\bin\Debug\CursoMD07.exe.config
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\bin\Debug\CursoMD07.exe
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\bin\Debug\CursoMD07.pdb
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\obj\Debug\CursoMD07.csproj.AssemblyReference.cache
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\obj\Debug\CursoMD07.Properties.Resources.resources
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\obj\Debug\CursoMD07.csproj.GenerateResource.cache
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\obj\Debug\CursoMD07.csproj.CoreCompileInputs.cache
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\obj\Debug\CursoMD07.exe
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\obj\Debug\CursoMD07.pdb
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\bin\Debug\CursoMD07.exe.manifest
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\bin\Debug\CursoMD07.application
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\obj\Debug\CursoMD07.exe.manifest
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\obj\Debug\CursoMD07.application
+C:\Users\JohnWallas\source\repos\CursoMD07\CursoMD07\obj\Debug\CursoMD07.Form1.resources
